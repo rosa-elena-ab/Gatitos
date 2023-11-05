@@ -1,0 +1,38 @@
+/*
+selector{
+    propiedad : valor;
+    propiedad : valor;
+}
+
+*/
+body {
+    /*cambiar color de fondo*/
+    background-color :rgb(255, 242, 216);
+    /*color de texto*/
+    color:rgb(17, 57, 70);
+    /*Cambiar fuente del texto*/
+    font-family: 'Exo 2', sans-serif;
+
+}
+
+h1 {
+    color:rgb(11, 96, 124);
+}
+h3 {
+    color: rgb(114, 96, 71)
+}
+img {
+    /*ancho del objeto*/
+    width: 450px ;
+    /*alto del objeto
+    height: ;*/
+}
+
+.gato-piscina{
+    width: 500px;
+    border-radius:10px;
+    box-shadow: 1px 0px 50px rgb(0,0,255);
+}
+.enviar{
+
+}
